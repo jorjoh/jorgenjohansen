@@ -21,4 +21,5 @@ for ($r=1; $r<=$antallRader; $r++)								/* for-løkke for å lese gjennom og s
     // echo("<p id='om'>$about</p>");
     echo("<footer>$rettigheterTilSide</footer>");
 
+
 }
