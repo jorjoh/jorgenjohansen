@@ -1,0 +1,7 @@
+TODO: myOwnWebsite
+
+* Favicon loded over http ikke https -fjern protokoll
+* Contact page returnerer ikke til forsiden 
+	 * UTF-8 problemer med subject-field (lag engelsk versjon)
+* Legg til npm-bruker på about me
+* HAPI - struktur 
