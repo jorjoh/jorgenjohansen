@@ -118,7 +118,7 @@
             <li><a href="about.php" id="nav">About</a>
                 <ul>
                     <li id="contact" ><a id="cv"
-                                         href="https://www.dropbox.com/s/mxffeb53tbc6t27/J%C3%B8rgen%20Johansen.pdf?dl=0"
+                                         href="https://www.dropbox.com/s/qq4mtow3r8ul5rm/J%C3%B8rgen%20Johansen.pdf?dl=0"
                                          target="_blank">CV</a></li>
                 </ul>
             </li>

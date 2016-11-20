@@ -28,7 +28,7 @@
         <!-- <p id="stuideSted">Student ved HÃ¸gksolen i Buskerud og Velstfold</p>
          <p id="stuide">Informasjonssystemer og IT-ledelse</p> -->
         <div id="social" style="display: inline">
-            <a href="https://no.linkedin.com/pub/jÃ¸rgen-johansen/70/469/60/en" target="_blank">
+            <a href="https://no.linkedin.com/in/jørgen-johansen-06046970" target="_blank">
                 <img src="images/linkedin.png">
             </a>
             <a href="https://www.facebook.com/JorgenJohansen93" target="=_blank"> <img src="images/facebook.PNG"> </a>
