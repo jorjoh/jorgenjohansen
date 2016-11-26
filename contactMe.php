@@ -3,13 +3,13 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <link href="styleswebpage.css" rel="stylesheet" type="text/css">
+    <link href="Styles/styleswebpage.css" rel="stylesheet" type="text/css">
     <title>J&oslashrgen Johansen</title>
     <style>
 
     </style>
 
-    <script src="jquery-1.11.1.js"></script>
+    <script src="Script/jquery-1.11.1.js"></script>
 
 </head>
 
@@ -19,7 +19,7 @@
 
 
 </script>
-<script src="script.js"></script>
+<script src="Script/script.js"></script>
 
 <div id="content">
 

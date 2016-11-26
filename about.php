@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="UTF-8">
-    <link href="styleswebpage.css" rel="stylesheet" type="text/css">
+    <link href="Styles/styleswebpage.css" rel="stylesheet" type="text/css">
     <title>J&oslashrgen Johansen</title>
 
-    <script src="jquery-1.11.1.js"></script>
+    <script src="Script/jquery-1.11.1.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
             $(".faceBookLink").fadeIn(6000);
