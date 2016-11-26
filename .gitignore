@@ -6,6 +6,7 @@
 ## Directory-based project format:
 .idea/
 
+
 # if you remove the above rule, at least ignore the following:
 
 # User-specific stuff:
@@ -35,6 +36,7 @@
 *.iws
 frontend/functions/dbcon.php
 backend/functions/dbcon.php
+DBfecthInfo/Dbcon.php
 
 
 ## Plugin-specific files:
